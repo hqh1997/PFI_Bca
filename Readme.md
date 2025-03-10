@@ -55,10 +55,10 @@ WSIs and clinical information of patients are used in this project. Raw WSIs are
 
 * Global knowledge-guided patch representation: create tumor grade  probability heatmaps for MacroContextNet training. 
 
-    ``` shell
-    $ cd ./Data_process
-    $ python 
-    ```
+``` shell
+$ cd ./Data_process
+$ python  inference_conch_probability.py 
+```
 
 ## Feature_extractor
 
@@ -148,11 +148,3 @@ DATA_ROOT is the base directory of all datasets (e.g. the directory to your SSD 
 
 ## Acknowledgements
 - Prognosis training and test code base structure was inspired by [[PathFinder]](https://github.com/mahmoodlab/PathomicFusion) and[[MCAT]](https://github.com/mahmoodlab/MCAT) .
-
-  
-
-  
-
-
-
-
