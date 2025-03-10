@@ -1,2 +1,2 @@
-A spatially aware multicenter deep learning framework for recurrence risk prediction in bladder cancer
+Prior pathological knowledge-guided deep learning model for bladder urothelial carcinoma biomarker exploration and prognosis prediction
 
